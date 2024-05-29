@@ -42,17 +42,17 @@
 <!-- skills icons start -->
 <div align="center">
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/nextdotjs/36BCF7FF" alt="nextjs icon"/>
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/typescript/36BCF7FF" alt="typescript icon"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/typescript/EB008B" alt="typescript icon"/>
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/javascript/36BCF7FF" alt="javascript icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/react/36BCF7FF" alt="react icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/react/EB008B" alt="react icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/36BCF7FF" alt="nodejs icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/express/36BCF7FF" alt="express icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/express/EB008B" alt="express icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/mongodb/36BCF7FF" alt="mongodb icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/sass/36BCF7FF" alt="sass icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/sass/EB008B" alt="sass icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/36BCF7FF" alt="tailwindcss icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/36BCF7FF" alt="bootstrap icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/EB008B" alt="bootstrap icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/html5/36BCF7FF" alt="html5 icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/css3/36BCF7FF" alt="css3 icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/css3/EB008B" alt="css3 icon" />
 </div>
 <!-- skills icons end -->
 
