@@ -1,22 +1,19 @@
 <!--
+    ---------------------------------------------------------------------
+    
     Sushant Bhat's GitHub Profile
     Created on : 05/29/2024
     Author     : Sushant Bhat
     Contact    : sush1393@gmail.com
 
     ---------------------------------------------------------------------
-
-    You can find other awesome profile READMEs at
-    https://github.com/abhisheknaiidu/awesome-github-profile-readme.
-    There could be a profile README that fits you better than this one.
-
-    ---------------------------------------------------------------------
-    
 -->
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there!+I'm+Sushant+Bhat)](https://git.io/typing-svg)
+<div align="center"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/></div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Sushant+Bhat.+Nice+to+meet+you.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -31,19 +28,18 @@
 
 <!-- skills icons start -->
 <div align="center">
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/nextdotjs/EB008B" alt="nextjs icon"/>
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/typescript/EB008B" alt="typescript icon"/>
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/javascript/EB008B" alt="javascript icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/react/EB008B" alt="react icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/EB008B" alt="nodejs icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/express/EB008B" alt="express icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/mongodb/EB008B" alt="mongodb icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/sass/EB008B" alt="sass icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/EB008B" alt="tailwindcss icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/EB008B" alt="bootstrap icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/html5/EB008B" alt="html5 icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/css3/EB008B" alt="css3 icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/markdown/EB008B" alt="markdown icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/nextdotjs/36BCF7FF" alt="nextjs icon"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/typescript/36BCF7FF" alt="typescript icon"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/javascript/36BCF7FF" alt="javascript icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/react/36BCF7FF" alt="react icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/36BCF7FF" alt="nodejs icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/express/36BCF7FF" alt="express icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/mongodb/36BCF7FF" alt="mongodb icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/sass/36BCF7FF" alt="sass icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/36BCF7FF" alt="tailwindcss icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/36BCF7FF" alt="bootstrap icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/html5/36BCF7FF" alt="html5 icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/css3/36BCF7FF" alt="css3 icon" />
 </div>
 <!-- skills icons end -->
 
@@ -90,27 +86,27 @@
 
 <div align="center">
     <!-- github streak start -->
-    <img loading="lazy" width=396 src="https://github-readme-streak-stats-mnex.vercel.app?user=bhatsushant&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=EB008B&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=FFFFFF" alt="current streak stats" />
+    <img loading="lazy" width=396 src="https://github-readme-streak-stats-mnex.vercel.app?user=bhatsushant&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=36BCF7FF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&excludeDaysLabel=36BCF7FF&dates=FFFFFF" alt="current streak stats" />
     <!-- github streak end -->
     <!-- github stats start -->
-    <img loading="lazy" width=396 src="https://github-readme-stats-mnex.vercel.app/api?username=bhatsushant&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=EB008B&currStreakLabel=EB008B&sideLabels=EB008B&icon_color=EB008B&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&include_all_commits=true" alt="github stats" />
+    <img loading="lazy" width=396 src="https://github-readme-stats-mnex.vercel.app/api?username=bhatsushant&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&include_all_commits=true" alt="github stats" />
     <!-- github stats end -->
 </div>
 
 <div align="center">
     <!-- github most used languages start -->
-    <img loading="lazy" width=325 src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=bhatsushant&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="most used language stats" />
+    <img loading="lazy" width=325 src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=bhatsushant&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=36BCF7FF&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="most used language stats" />
     <!-- github most used languages end -->
     <!-- wakatime weekly activity start -->
     <!-- <a href="https://wakatime.com/@bhatsushant" target="_blank" rel="noopener noreferrer" title="Data update every midnight">
-        <img loading="lazy" src="https://github-readme-stats-bhatsushant.vercel.app/api/wakatime?username=bhatsushant&layout=compact&langs_count=6&theme=react&text_color=00B8B5&bg_color=0D1117&title_color=EB008B&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding actitvity languages" />
+        <img loading="lazy" src="https://github-readme-stats-bhatsushant.vercel.app/api/wakatime?username=bhatsushant&layout=compact&langs_count=6&theme=react&text_color=00B8B5&bg_color=0D1117&title_color=36BCF7FF&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding actitvity languages" />
     </a> -->
     <!-- wakatime weekly activity end -->
 </div>
 
 <!-- github readme activity graph start -->
 <div align="center">
-    <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph-mnex.vercel.app/graph?username=bhatsushant&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
+    <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph-mnex.vercel.app/graph?username=bhatsushant&bg_color=0d1117&color=00b8b5&line=36BCF7FF&point=FFFFFF&area=true&hide_border=true&hide_title=true">
 </div>
 <!-- github readme activity graph end -->
 
@@ -139,22 +135,22 @@
         <tr>
             <th>
                 <a href="https://www.linkedin.com/in/sushantbhat22" target="_blank" rel="noopener noreferrer" title="linkedin.com/in/bhatsushant">
-                    <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/EB008B" width="35px">
+                    <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/36BCF7FF" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://www.github.com/bhatsushant" target="_blank" rel="noopener noreferrer" title="github.com/bhatsushant">
-                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/github/EB008B" width="35px">
+                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/github/36BCF7FF" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://sushantbhat.dev" target="_blank" rel="noopener noreferrer" title="sushantbhat.dev">
-                    <img loading="lazy" alt="web icon" src="https://cdn.simpleicons.org/googlechrome/EB008B" width="35px">
+                    <img loading="lazy" alt="web icon" src="https://cdn.simpleicons.org/googlechrome/36BCF7FF" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://x.com/sushantbhat_22" target="_blank" rel="noopener noreferrer" title="https://x.com/bhatsushant">
-                    <img loading="lazy" alt="x icon" src="https://cdn.simpleicons.org/x/EB008B" width="35px">
+                    <img loading="lazy" alt="x icon" src="https://cdn.simpleicons.org/x/36BCF7FF" width="35px">
                 </a>
             </th>
         </tr>
