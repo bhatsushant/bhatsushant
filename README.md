@@ -124,10 +124,8 @@
 <!-- github readme activity graph end -->
 
 <!-- github trophy start -->
-<div align="center">
-    <div align="center">
-        <img loading="lazy" src="https://github-profile-trophy-mnex.vercel.app?username=bhatsushant&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
-    </div>
+<div align="right">
+    <img loading="lazy" src="https://github-profile-trophy-mnex.vercel.app?username=bhatsushant&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
 </div>
 <!-- github trophy end -->
 
