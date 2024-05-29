@@ -1,12 +1,17 @@
 <!--
-    ---------------------------------------------------------------------
-    
     Sushant Bhat's GitHub Profile
     Created on : 05/29/2024
     Author     : Sushant Bhat
     Contact    : sush1393@gmail.com
 
     ---------------------------------------------------------------------
+
+    You can find other awesome profile READMEs at
+    https://github.com/abhisheknaiidu/awesome-github-profile-readme.
+    There could be a profile README that fits you better than this one.
+
+    ---------------------------------------------------------------------
+    
 -->
 
 <br/>
@@ -14,6 +19,14 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/></div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Sushant+Bhat.+Nice+to+meet+you.)](https://git.io/typing-svg)
+
+<br/>
+
+* 🌍  I'm based in the United States
+* 🎓  I am a Software Engineer with a Master's degree in Computer Science.
+* ✉️  You can contact me at [sush1393@gmail.com](mailto:sush1393@gmail.com)
+* 🧠  I work on Javscript, Typescript, Python, ReactJs, ExpressJs, GraphQL, MongoDB, MySql.
+* 🤝  Currently working as a Senior Software Engineer @ breathing.ai
 
 <br/>
 
@@ -60,7 +73,7 @@
 
 <!-- about me start -->
 <div align="left">
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=120&height=21&lines=ABOUT+ME" alt="About Me" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&vCenter=true&repeat=false&width=120&height=21&lines=ABOUT+ME" alt="About Me" />
 </div>
 <!-- about me end -->
 
@@ -68,7 +81,7 @@
 
 <!-- my summary start -->
 <p> 
-    I'm Sushant Bhat. As a seasoned <a href="http://bhatsushant-dev.web.app/" target="_blank" rel="noopener noreferrer">full-stack developer</a>, I thrive on transforming complex problems into seamless solutions. With a robust background in JavaScript, React, and Node.js, I bring a unique blend of technical expertise and creativity to every project. My journey in software development is marked by a series of successful projects that not only enhanced user experiences but also drove significant engagement and growth. At breathing.ai, I led cross-functional teams to integrate cutting-edge technologies, resulting in notable improvements in user engagement and subscription revenue. My academic achievements, including a Master of Science in Computer Science from Stevens Institute of Technology, complement my professional experience. I am passionate about coding, continuously learning, and embracing new technologies to push the boundaries of innovation. Whether it's optimizing deployment workflows with Docker or pioneering end-to-end testing methodologies, I am dedicated to delivering high-quality, efficient solutions. I am excited to connect with like-minded professionals and explore opportunities to contribute to dynamic, forward-thinking teams.
+    I'm Sushant Bhat. As a seasoned <a href="http://sushantbhat.dev/" target="_blank" rel="noopener noreferrer">full-stack developer</a>, I thrive on transforming complex problems into seamless solutions. With a robust background in JavaScript, React, and Node.js, I bring a unique blend of technical expertise and creativity to every project. My journey in software development is marked by a series of successful projects that not only enhanced user experiences but also drove significant engagement and growth. At breathing.ai, I led cross-functional teams to integrate cutting-edge technologies, resulting in notable improvements in user engagement and subscription revenue. My academic achievements, including a Master of Science in Computer Science from Stevens Institute of Technology, complement my professional experience. I am passionate about coding, continuously learning, and embracing new technologies to push the boundaries of innovation. Whether it's optimizing deployment workflows with Docker or pioneering end-to-end testing methodologies, I am dedicated to delivering high-quality, efficient solutions. I am excited to connect with like-minded professionals and explore opportunities to contribute to dynamic, forward-thinking teams.
 </p>
 <!-- my summary end -->
 
@@ -112,7 +125,9 @@
 
 <!-- github trophy start -->
 <div align="center">
-    <img loading="lazy" src="https://github-profile-trophy-mnex.vercel.app?username=bhatsushant&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
+    <div align="center">
+        <img loading="lazy" src="https://github-profile-trophy-mnex.vercel.app?username=bhatsushant&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
+    </div>
 </div>
 <!-- github trophy end -->
 
