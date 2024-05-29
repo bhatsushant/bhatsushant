@@ -18,10 +18,7 @@
 
 <!-- hello nice to meet you text start -->
 <div align="center">
-    <img loading="lazy" width="30px" src="./media/icons/code.png" alt="code png" />
-    [Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+There!+I'+m+Sushant+Bhat%2C+a+Full+Stack+Developer)](https://git.io/typing-svg)
-    <img loading="lazy" width="30px" src="./media/icons/layers.png" alt="layers png" />
+    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there!+I'm+Sushant+Bhat%2C+a+Full+Stack+Developer)](https://git.io/typing-svg)
 </div>
 <!-- hello nice to meet you text end -->
 
