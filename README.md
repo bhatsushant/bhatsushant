@@ -16,17 +16,12 @@
 
 <br/>
 
-<!-- hello nice to meet you text start -->
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there!+I'm+Sushant+Bhat%2C+a+Full+Stack+Developer)](https://git.io/typing-svg)
-</div>
-<!-- hello nice to meet you text end -->
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there!+I'm+Sushant+Bhat)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- about repository badges start -->
 <div align="center">
-  <img src="https://wakatime.com/badge/user/bb224c90-7cb7-4c45-953e-a9e26c1cb06c.svg?style=for-the-badge&color=00B8B5" alt="wakatime badge" style="margin-right: 6px;" />
   <img src="https://img.shields.io/github/followers/bhatsushant?logo=github&style=for-the-badge&color=00B8B5" alt="follow badge" style="margin-right: 6px;" />
   <img src="https://img.shields.io/badge/%F0%9F%91%8D-Thanks%20for%20visiting-00B8B5.svg?style=for-the-badge&logoColor=ffffff" alt="thanks badge" style="margin-right: 6px;" />
 </div>
@@ -67,16 +62,11 @@
 <br/>
 <br/>
 
-<!-- introduction heading start -->
-<div align="center">
-    <!-- about me start -->
-    <div align="left">
-        <img loading="lazy" width="21" src="./media/icons/charismatic.png" alt="wave png" />
-        <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=120&height=21&lines=ABOUT+ME" alt="i am bhatsushant svg" />
-    </div>
-    <!-- about me end -->
+<!-- about me start -->
+<div align="left">
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=120&height=21&lines=ABOUT+ME" alt="About Me" />
 </div>
-<!-- introduction heading end -->
+<!-- about me end -->
 
 <br/>
 
@@ -92,7 +82,6 @@
 
 <!-- my github stats text start -->
 <div align="center"> 
-    <img loading="lazy" width="21" align="center" src="./media/icons/pie-chart.png" alt="pie chart png" />
     <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
 </div>
 <!-- my github stats text end -->
@@ -137,8 +126,7 @@
 <br/>
 
 <!-- feel free to contact me text start -->
-<div align="center"> 
-    <img loading="lazy" width="21" src="./media/icons/link.png" alt="postbox svg" />
+<div align="center">
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=385&height=21&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
 </div>
 <!-- feel free to contact me text end -->
@@ -181,7 +169,6 @@
 
 <!-- fun facts text start -->
 <div align="left">
-    <img loading="lazy" width="21" src="./media/icons/confetti.png" alt="confetti svg" />
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=128&height=21&lines=FUN+QUOTE" alt="fun facts svg" />
 </div>
 <!-- fun facts text end -->
@@ -207,19 +194,8 @@
 <br/>
 <br/>
 
-<!-- build with love svg start -->
+<!-- built with love svg start -->
 <div align="center">
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&center=true&vCenter=true&width=185&height=15&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILT+BY+SUSHANT" alt="built with love svg" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&center=true&vCenter=true&width=185&height=15&lines=%C2%A9+BUILT+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILT+BY+SUSHANT" alt="built with love svg" />
 </div>
-<!-- build with love svg end -->
-
-<br/>
-<br/>
-<br/>
-
-<!--RECENT_ACTIVITY:last_update-->
-<!--RECENT_ACTIVITY:last_update_end-->
-
-<br/>
-<br/>
-<br/>
+<!-- built with love svg end -->
