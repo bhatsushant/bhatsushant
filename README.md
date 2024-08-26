@@ -26,7 +26,7 @@
 * 🎓  I am a Software Engineer with a Master's degree in Computer Science.
 * ✉️  You can contact me at [sush1393@gmail.com](mailto:sush1393@gmail.com)
 * 🧠  I work on Javscript, Typescript, Python, ReactJs, ExpressJs, GraphQL, MongoDB, MySql.
-* 🤝  Currently working as a Senior Software Engineer @ breathing.ai
+* 🤝  Currently working as a Software Engineer @ Codewave
 
 <br/>
 
@@ -81,7 +81,7 @@
 
 <!-- my summary start -->
 <p> 
-    I'm Sushant Bhat. As a seasoned <a href="http://sushantbhat.dev/" target="_blank" rel="noopener noreferrer">Full Stack Developer</a>, I thrive on transforming complex problems into seamless solutions. With a robust background in JavaScript, React, TypeScript and Node.js, I bring a unique blend of technical expertise and creativity to every project. My journey in software development is marked by a series of successful projects that not only enhanced user experiences but also drove significant engagement and growth. At breathing.ai, I lead cross-functional teams to integrate cutting-edge technologies, resulting in notable improvements in user engagement and subscription revenue. My academic achievements, including a Master of Science in Computer Science from Stevens Institute of Technology, complement my professional experience. I am passionate about coding, continuously learning, and embracing new technologies to push the boundaries of innovation. Whether it's optimizing deployment workflows with Docker or pioneering end-to-end testing methodologies, I am dedicated to delivering high-quality, efficient solutions. I am excited to connect with like-minded professionals and explore opportunities to contribute to dynamic, forward-thinking teams.
+    I'm Sushant Bhat. As a seasoned <a href="http://sushantbhat.dev/" target="_blank" rel="noopener noreferrer">Full Stack Developer</a>, I thrive on transforming complex problems into seamless solutions. With a robust background in JavaScript, React, TypeScript and Node.js, I bring a unique blend of technical expertise and creativity to every project. I am passionate about coding, continuously learning, and embracing new technologies to push the boundaries of innovation. I am dedicated to delivering high-quality, efficient solutions. I am excited to connect with like-minded professionals and explore opportunities to contribute to dynamic, forward-thinking teams.
 </p>
 <!-- my summary end -->
 
