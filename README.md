@@ -26,7 +26,7 @@
 * 🎓  I am a Software Engineer with a Master's degree in Computer Science.
 * ✉️  You can contact me at [sush1393@gmail.com](mailto:sush1393@gmail.com)
 * 🧠  I work on Javscript, Typescript, Python, ReactJs, ExpressJs, GraphQL, MongoDB, MySql.
-* 🤝  Currently working as a Software Engineer @ Codewave
+* 🤝  Currently working as a Software Engineer @ Streamline Healthcare Solutions
 
 <br/>
 
