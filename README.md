@@ -103,7 +103,7 @@
         <tr>
             <th>
                 <a href="https://www.linkedin.com/in/sushantbhat22" target="_blank" rel="noopener noreferrer" title="linkedin.com/in/bhatsushant">
-                    <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/36BCF7FF" width="35px">
+                    <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin" width="35px">
                 </a>
             </th>
             <th>
