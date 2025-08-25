@@ -89,51 +89,6 @@
 <br/>
 <br/>
 
-<!-- my github stats text start -->
-<div align="center"> 
-    <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
-</div>
-<!-- my github stats text end -->
-
-<br/>
-
-<div align="center">
-    <!-- github streak start -->
-    <img loading="lazy" width=396 src="https://github-readme-streak-stats-mnex.vercel.app?user=bhatsushant&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=36BCF7FF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&excludeDaysLabel=36BCF7FF&dates=FFFFFF" alt="current streak stats" />
-    <!-- github streak end -->
-    <!-- github stats start -->
-    <img loading="lazy" width=396 src="https://github-readme-stats-mnex.vercel.app/api?username=bhatsushant&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&include_all_commits=true" alt="github stats" />
-    <!-- github stats end -->
-</div>
-
-<div align="center">
-    <!-- github most used languages start -->
-    <img loading="lazy" width=325 src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=bhatsushant&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=36BCF7FF&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="most used language stats" />
-    <!-- github most used languages end -->
-    <!-- wakatime weekly activity start -->
-    <!-- <a href="https://wakatime.com/@bhatsushant" target="_blank" rel="noopener noreferrer" title="Data update every midnight">
-        <img loading="lazy" src="https://github-readme-stats-bhatsushant.vercel.app/api/wakatime?username=bhatsushant&layout=compact&langs_count=6&theme=react&text_color=00B8B5&bg_color=0D1117&title_color=36BCF7FF&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding actitvity languages" />
-    </a> -->
-    <!-- wakatime weekly activity end -->
-</div>
-
-<!-- github readme activity graph start -->
-<div align="center">
-    <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph-mnex.vercel.app/graph?username=bhatsushant&bg_color=0d1117&color=00b8b5&line=36BCF7FF&point=FFFFFF&area=true&hide_border=true&hide_title=true">
-</div>
-<!-- github readme activity graph end -->
-
-<!-- github trophy start -->
-<div align="right">
-    <img loading="lazy" src="https://github-profile-trophy-mnex.vercel.app?username=bhatsushant&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
-</div>
-<!-- github trophy end -->
-
-<br/>
-<br/>
-<br/>
-<br/>
-
 <!-- feel free to contact me text start -->
 <div align="center">
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=385&height=21&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
